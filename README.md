@@ -11,3 +11,5 @@ Clone repositori
 -> cd webpegawaimuseum
 ## Konfigurasi Database ##
 -> file application/config/database.php
+## Menjalankan Aplikasi ##
+-> php spark serve
